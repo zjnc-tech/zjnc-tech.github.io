@@ -1,0 +1,9 @@
+# navigation links
+main:
+  - url: http://nhi.fed.zhejianglab.org/doc/manual/index.html
+    title: 文档
+  - url: https://github.com/nhcf/NanHuInsight
+    icon: /assets/github.png
+    title: GitHub
+ui-text:
+  powered_by: 之江实验室
