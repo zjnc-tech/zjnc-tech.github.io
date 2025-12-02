@@ -8,27 +8,10 @@ layout: splash
   <img width="254px" height="48px" src="/assets/images/title.png" />
   <div style="color: #F9F9F9; padding: 12px; margin: 16px 0; font-size: 20px;">一个专为大规模智算集群设计的智能故障控制</div>
   <div class="github flex">
-    <div class="count flex">
-      <div class="name flex">
-        <img src="/assets/github.png"  style="height:16px; width:16px;">
-        <span>Star</span>
-      </div>
-      <div class="value flex">102</div>
-    </div>
-    <div class="count flex">
-      <div class="name flex">
-        <img src="/assets/watcher.png"  style="height:16px; width:21px;">
-        <span>Watcher</span>
-      </div>
-      <div class="value flex">1</div>
-    </div>
-    <div class="count flex">
-      <div class="name flex">
-        <img src="/assets/fork.png"  style="height:16px; width:16px;">
-        <span>Fork</span>
-      </div>
-      <div class="value flex">3</div>
-    </div>
+  <a></a>
+    <img src="https://img.shields.io/github/stars/grafana/grafana?style=social">
+    <img src="https://img.shields.io/github/watchers/grafana/grafana?style=social">
+    <img src="https://img.shields.io/github/forks/grafana/grafana?style=social">
   </div>
   <div class="quick-start flex"><a target="_blank" href="http://nhi.fed.zhejianglab.org/doc/manual/index.html">点击开始</a></div>
 </div>
